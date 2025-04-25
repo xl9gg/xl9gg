@@ -4,6 +4,8 @@
 - 星链社工库是一个免费的海外开盒社工库工具，此社工库查询工具可以免费使用，每日有三次免费查询次数，星链社工库可以查询车牌（全国车主），也可以查询姓名，手机号，性别，年龄，身份证号、微博号、QQ号、快递地址、收件姓名。
 - 账号信息：[星链社工库机器人](https://t.me/xl9xd_bot)；
 - 教程：[2025年最新星链社工库使用方法(Telegram星链社工库使用图文教程)](https://telegra.ph/星链-Star-Chain-9-社工库使用教程-04-18)；
+
+- [2025年最新星链社工库使用方法(Telegram星链社工库使用图文教程)](https://telegra.ph/星链-Star-Chain-9-社工库使用教程-04-18)；
 <!--
 **xl9gg/xl9gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
