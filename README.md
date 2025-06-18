@@ -6,6 +6,8 @@
 - 教程：[2025年最新星链社工库使用方法(Telegram星链社工库使用图文教程)](https://telegra.ph/星链-Star-Chain-9-社工库使用教程-04-18)；
 
 - [2025年最新星链社工库使用方法(Telegram星链社工库使用图文教程)](https://telegra.ph/星链-Star-Chain-9-社工库使用教程-04-18)；
+
+- 星链社工库是可查询海量泄漏数据的免费老牌社工库查询工具，也是一个综合开盒Telegram社工库，海外Telegram社工库层出不穷，暗精灵免费社工库支持简单查询、人工查档、猎魔、人肉搜索的综合社工库查询工具。此社工库社工库收录全网最全快递及订单数据（来自淘宝、京东等购物网站的4541420022条泄露数据），绝对的老牌社工库，可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
 <!--
 **xl9gg/xl9gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
